@@ -110,4 +110,5 @@ int wmain(const int argc, wchar_t** argv) {
 
 	intel_driver::Unload(iqvw64e_device_handle);
 	Log(L"[+] success" << std::endl);
+	return 0;
 }
