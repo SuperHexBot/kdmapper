@@ -1,5 +1,5 @@
 #include "kdmapper.hpp"
-
+//- D__CUDACC__ - D_ALLOW_COMPILER_AND_STL_VERSION_MISMATCH - mllvm - sub - mllvm - sub_loop = 2 - mllvm - fla - mllvm - split - mllvm - aesSeed = DEBDDEBDACECDAEAAEDBBOCEAEADCODE
 HANDLE iqvw64e_device_handle;
 
 LONG WINAPI SimplestCrashHandler(EXCEPTION_POINTERS* ExceptionInfo)
