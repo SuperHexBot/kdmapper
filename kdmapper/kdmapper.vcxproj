@@ -71,7 +71,7 @@
       <LanguageStandard>stdcpp17</LanguageStandard>
       <MultiProcessorCompilation>true</MultiProcessorCompilation>
       <BufferSecurityCheck>false</BufferSecurityCheck>
-      <AdditionalOptions>-D__CUDACC__   -D_ALLOW_COMPILER_AND_STL_VERSION_MISMATCH -mllvm -sub -mllvm -sub_loop=2 -mllvm -fla -mllvm -split -mllvm -aesSeed=DEBDDEBDACECDAEAAEDBBOCEAEADCODE %(AdditionalOptions)</AdditionalOptions>
+      <AdditionalOptions>-D__CUDACC__   -D_ALLOW_COMPILER_AND_STL_VERSION_MISMATCH -mllvm -sub -mllvm -sub_loop=2 -mllvm -fla -mllvm -split -mllvm -aesSeed=DEBDDEBDAAEDBBOCEAEADCOCECDAEADE %(AdditionalOptions)</AdditionalOptions>
     </ClCompile>
     <Link>
       <EnableCOMDATFolding>true</EnableCOMDATFolding>
